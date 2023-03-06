@@ -1,2 +1,1 @@
-# Traffic-Prediction
-Traffic Prediction using GRU
+# 1.0 Traffic prediction using GRU
